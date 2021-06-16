@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/Fm6GnzK/whatsapp-clone.png">
 </p>
 
-# Simple Whatsapp Clone Application
+# Simple WhatsApp Web Clone Application
 
 An application designed with React like WhatsApp Web. Open to development. _(development continues)_
 
